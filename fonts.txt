@@ -1,0 +1,6 @@
+@font-face {
+ font-family: TongueoftheOld;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/ElionAmamion/fonts/ae4cb25ef912426b53aa112eccdadcab5a6d24c5/OldTongue-Regular.ttf) ;
+}
